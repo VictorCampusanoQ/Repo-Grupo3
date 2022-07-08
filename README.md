@@ -1,5 +1,5 @@
 # Repo-Grupo3
-CursoJavaScript
+CursoJavaScript 07/07/2022
 
 Integrantes:
 Cristian Matamala, Guillermo Ondarza, Rubén Hormazábal, Sergio Aravena, Victor Campusano, Jorge Tapia.
