@@ -1,0 +1,31 @@
+{
+    "arrayProductos":[{
+            "nombreProducto":"Café Americano",
+            "precio":"$1000"
+        },
+        {
+            "nombreProducto":"Café Capuchino",
+            "precio":"$1200"
+        },
+        {
+            "nombreProducto":"Café Mocachino",
+            "precio":"$1200"
+        },
+        {
+            "nombreProducto":"Café Late",
+            "precio":"$1500"
+        },
+        {
+            "nombreProducto":"Café Expreso",
+            "precio":"$1500"
+        },
+        {
+            "nombreProducto":"Empanada de Pino",
+            "precio":"$1800"
+        },
+        {
+            "nombreProducto":"Sopaipillas",
+            "precio":"$1000"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(243, 179, 107);
+    font-family: 'Roboto', sans-serif;
+}
+footer {
+    background-color: #bc7d47; font-family:
+    'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center; text-transform:
+    uppercase; color: #ff0000;
+}
+
+#ven {
+
+    font-family: parisienne;
+    
+    }
+#foto {
+    margin: 0 auto;
+}
+
+
+/*
+@media screen and (max-width: 768px)  {
+    body{
+    background-color:rgb(208, 255, 0)}
+    #empresa{
+        background-color: rgb(69, 238, 182);
+        text-align:center
+        
+    }
+    .imagenes{
+		margin:10px auto;
+		display:block;
+    }
+
+}
+
+@media screen and (max-width: 1024px) and (min-width: 769px ) {
+    body{
+    background-color:rgb(117, 138, 207)}
+    #empresa{
+        background-color: rgb(69, 238, 182);
+        text-align:center
+        
+    }
+    .imagenes{
+		margin:10px auto;
+		display:block;
+    }
+
+    }
+
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1025px) {
+    body{
+    background-color:rgb(189, 93, 184)}
+    .imagenes{
+		
+		
+    }
+
+}
+
